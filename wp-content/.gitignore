@@ -1,0 +1,6 @@
+*
+!.gitignore
+!index.php
+!plugins/index.php
+!themes/
+!themes/**

@@ -1,0 +1,830 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e3652d7cdb213a5c0c67d7517296f0e2",
+    "packages": [
+        {
+            "name": "composer/installers",
+            "version": "v2.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/composer/installers.git",
+                "reference": "12fb2dfe5e16183de69e784a7b84046c43d97e8e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/composer/installers/zipball/12fb2dfe5e16183de69e784a7b84046c43d97e8e",
+                "reference": "12fb2dfe5e16183de69e784a7b84046c43d97e8e",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^1.0 || ^2.0",
+                "php": "^7.2 || ^8.0"
+            },
+            "require-dev": {
+                "composer/composer": "^1.10.27 || ^2.7",
+                "composer/semver": "^1.7.2 || ^3.4.0",
+                "phpstan/phpstan": "^1.11",
+                "phpstan/phpstan-phpunit": "^1",
+                "symfony/phpunit-bridge": "^7.1.1",
+                "symfony/process": "^5 || ^6 || ^7"
+            },
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Composer\\Installers\\Plugin",
+                "branch-alias": {
+                    "dev-main": "2.x-dev"
+                },
+                "plugin-modifies-install-path": true
+            },
+            "autoload": {
+                "psr-4": {
+                    "Composer\\Installers\\": "src/Composer/Installers"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kyle Robinson Young",
+                    "email": "kyle@dontkry.com",
+                    "homepage": "https://github.com/shama"
+                }
+            ],
+            "description": "A multi-framework Composer library installer",
+            "homepage": "https://composer.github.io/installers/",
+            "keywords": [
+                "Dolibarr",
+                "Eliasis",
+                "Hurad",
+                "ImageCMS",
+                "Kanboard",
+                "Lan Management System",
+                "MODX Evo",
+                "MantisBT",
+                "Mautic",
+                "Maya",
+                "OXID",
+                "Plentymarkets",
+                "Porto",
+                "RadPHP",
+                "SMF",
+                "Starbug",
+                "Thelia",
+                "Whmcs",
+                "WolfCMS",
+                "agl",
+                "annotatecms",
+                "attogram",
+                "bitrix",
+                "cakephp",
+                "chef",
+                "cockpit",
+                "codeigniter",
+                "concrete5",
+                "concreteCMS",
+                "croogo",
+                "dokuwiki",
+                "drupal",
+                "eZ Platform",
+                "elgg",
+                "expressionengine",
+                "fuelphp",
+                "grav",
+                "installer",
+                "itop",
+                "known",
+                "kohana",
+                "laravel",
+                "lavalite",
+                "lithium",
+                "magento",
+                "majima",
+                "mako",
+                "matomo",
+                "mediawiki",
+                "miaoxing",
+                "modulework",
+                "modx",
+                "moodle",
+                "osclass",
+                "pantheon",
+                "phpbb",
+                "piwik",
+                "ppi",
+                "processwire",
+                "puppet",
+                "pxcms",
+                "reindex",
+                "roundcube",
+                "shopware",
+                "silverstripe",
+                "sydes",
+                "sylius",
+                "tastyigniter",
+                "wordpress",
+                "yawik",
+                "zend",
+                "zikula"
+            ],
+            "support": {
+                "issues": "https://github.com/composer/installers/issues",
+                "source": "https://github.com/composer/installers/tree/v2.3.0"
+            },
+            "funding": [
+                {
+                    "url": "https://packagist.com",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/composer",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/composer/composer",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2024-06-24T20:46:46+00:00"
+        },
+        {
+            "name": "wp-cerber/wp-cerber",
+            "version": "9.9.3",
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wpcerber.com/plugin/wp-cerber.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "wp-plugin/advanced-custom-fields",
+            "version": "6.8.8",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/advanced-custom-fields/",
+                "reference": "tags/6.8.8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/advanced-custom-fields.6.8.8.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "WP Engine"
+                }
+            ],
+            "description": "ACF helps customize WordPress with powerful, professional and intuitive fields. Proudly powering over 2 million sites, WordPress developers love ACF.",
+            "homepage": "https://www.advancedcustomfields.com",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/advanced-custom-fields/#developers",
+                "issues": "https://wordpress.org/support/plugin/advanced-custom-fields",
+                "source": "https://plugins.svn.wordpress.org/advanced-custom-fields"
+            },
+            "time": "2026-08-19T17:10:52+00:00"
+        },
+        {
+            "name": "wp-plugin/animate-it",
+            "version": "3.0.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/animate-it/",
+                "reference": "tags/3.0.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/animate-it.3.0.4.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "eleopard"
+                }
+            ],
+            "description": "Add cool CSS3 animations to your content.",
+            "homepage": "http://www.eleopard.in",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/animate-it/#developers",
+                "issues": "https://wordpress.org/support/plugin/animate-it",
+                "source": "https://plugins.svn.wordpress.org/animate-it"
+            },
+            "time": "2026-03-23T19:23:21+00:00"
+        },
+        {
+            "name": "wp-plugin/cloudflare-flexible-ssl",
+            "version": "1.3.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/cloudflare-flexible-ssl/",
+                "reference": "tags/1.3.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/cloudflare-flexible-ssl.1.3.1.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "Paul"
+                }
+            ],
+            "description": "Fix For Redirect Loops on WordPress with CloudFlare's Flexible/Universal SSL.",
+            "homepage": "https://icwp.io/cloudflaresslpluginauthor",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/cloudflare-flexible-ssl/#developers",
+                "issues": "https://wordpress.org/support/plugin/cloudflare-flexible-ssl",
+                "source": "https://plugins.svn.wordpress.org/cloudflare-flexible-ssl"
+            },
+            "time": "2026-03-23T19:23:21+00:00"
+        },
+        {
+            "name": "wp-plugin/comments-from-facebook",
+            "version": "2.6.9",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/comments-from-facebook/",
+                "reference": "tags/2.6.9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/comments-from-facebook.2.6.9.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "wpdevart"
+                }
+            ],
+            "description": "This plugin will help you display Facebook Comments on your website. You can use it on your pages/posts.",
+            "homepage": "https://wpdevart.com/wordpress-facebook-comments-plugin",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/comments-from-facebook/#developers",
+                "issues": "https://wordpress.org/support/plugin/comments-from-facebook",
+                "source": "https://plugins.svn.wordpress.org/comments-from-facebook"
+            },
+            "time": "2026-03-23T19:23:21+00:00"
+        },
+        {
+            "name": "wp-plugin/cookie-law-info",
+            "version": "3.5.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/cookie-law-info/",
+                "reference": "tags/3.5.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/cookie-law-info.3.5.5.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "CookieYes"
+                }
+            ],
+            "description": "Cookie banner, cookie consent and cookie notice plugin for GDPR and CCPA. Auto cookie blocking, Consent Mode v2, policy pages and preference center.",
+            "homepage": "https://www.cookieyes.com/",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/cookie-law-info/#developers",
+                "issues": "https://wordpress.org/support/plugin/cookie-law-info",
+                "source": "https://plugins.svn.wordpress.org/cookie-law-info"
+            },
+            "time": "2026-08-20T06:35:59+00:00"
+        },
+        {
+            "name": "wp-plugin/disable-comments",
+            "version": "2.8.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/disable-comments/",
+                "reference": "tags/2.8.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/disable-comments.2.8.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "WPDeveloper"
+                }
+            ],
+            "description": "Allows administrators to globally disable comments on their site. Comments can be disabled according to post type. Multisite friendly.",
+            "homepage": "https://wordpress.org/plugins/disable-comments/",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/disable-comments/#developers",
+                "issues": "https://wordpress.org/support/plugin/disable-comments",
+                "source": "https://plugins.svn.wordpress.org/disable-comments"
+            },
+            "time": "2026-07-30T08:56:21+00:00"
+        },
+        {
+            "name": "wp-plugin/ewww-image-optimizer",
+            "version": "8.7.6",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
+                "reference": "tags/8.7.6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.8.7.6.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "Shane Bishop"
+                }
+            ],
+            "description": "Comprehensive image optimization with WebP, AVIF, Lazy Load, and more. Optimize images automatically for Faster Sites and Happy Visitors.",
+            "homepage": "https://wordpress.org/plugins/ewww-image-optimizer/",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/ewww-image-optimizer/#developers",
+                "issues": "https://wordpress.org/support/plugin/ewww-image-optimizer",
+                "source": "https://plugins.svn.wordpress.org/ewww-image-optimizer"
+            },
+            "time": "2026-08-20T16:36:14+00:00"
+        },
+        {
+            "name": "wp-plugin/favicon-by-realfavicongenerator",
+            "version": "1.3.50",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/favicon-by-realfavicongenerator/",
+                "reference": "tags/1.3.50"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/favicon-by-realfavicongenerator.1.3.50.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "phbernard"
+                }
+            ],
+            "description": "Create and install your favicon for all platforms: PC/Mac, iPhone/iPad, Android devices, Windows 8 tablets...",
+            "homepage": "http://realfavicongenerator.net/extensions/wordpress",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/favicon-by-realfavicongenerator/#developers",
+                "issues": "https://wordpress.org/support/plugin/favicon-by-realfavicongenerator",
+                "source": "https://plugins.svn.wordpress.org/favicon-by-realfavicongenerator"
+            },
+            "time": "2026-07-29T17:16:34+00:00"
+        },
+        {
+            "name": "wp-plugin/google-analytics-dashboard-for-wp",
+            "version": "10.1.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                "reference": "tags/10.1.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.10.1.3.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "Syed Balkhi"
+                }
+            ],
+            "description": "Connects Google Analytics with your WordPress site. Displays stats to help you understand your users and site content on a whole new level!",
+            "homepage": "https://exactmetrics.com",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/#developers",
+                "issues": "https://wordpress.org/support/plugin/google-analytics-dashboard-for-wp",
+                "source": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp"
+            },
+            "time": "2026-08-19T19:41:01+00:00"
+        },
+        {
+            "name": "wp-plugin/gutenberg",
+            "version": "23.8.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/gutenberg/",
+                "reference": "tags/23.8.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/gutenberg.23.8.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "WordPress.org"
+                }
+            ],
+            "description": "The Gutenberg plugin adds editing, customization, and site building to WordPress. Use it to test beta features before their official release.",
+            "homepage": "https://github.com/WordPress/gutenberg",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/gutenberg/#developers",
+                "issues": "https://wordpress.org/support/plugin/gutenberg",
+                "source": "https://plugins.svn.wordpress.org/gutenberg"
+            },
+            "time": "2026-08-19T11:10:50+00:00"
+        },
+        {
+            "name": "wp-plugin/meta-tag-manager",
+            "version": "3.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/meta-tag-manager/",
+                "reference": "tags/3.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/meta-tag-manager.3.3.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "Marcus (aka @msykes)"
+                }
+            ],
+            "description": "Easily add and manage custom meta tags to various parts of your site or on individual posts, such as Yahoo and Google verification tags.",
+            "homepage": "https://metatagmanager.com",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/meta-tag-manager/#developers",
+                "issues": "https://wordpress.org/support/plugin/meta-tag-manager",
+                "source": "https://plugins.svn.wordpress.org/meta-tag-manager"
+            },
+            "time": "2026-05-23T17:55:59+00:00"
+        },
+        {
+            "name": "wp-plugin/onesignal-free-web-push-notifications",
+            "version": "3.9.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/onesignal-free-web-push-notifications/",
+                "reference": "tags/3.9.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/onesignal-free-web-push-notifications.3.9.2.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "OneSignal Push Notifications"
+                }
+            ],
+            "description": "Increase engagement and drive more repeat traffic to your WordPress site with push notifications. Now a WordPress VIP Gold Partner.",
+            "homepage": "https://onesignal.com/",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/onesignal-free-web-push-notifications/#developers",
+                "issues": "https://wordpress.org/support/plugin/onesignal-free-web-push-notifications",
+                "source": "https://plugins.svn.wordpress.org/onesignal-free-web-push-notifications"
+            },
+            "time": "2026-07-02T22:20:53+00:00"
+        },
+        {
+            "name": "wp-plugin/post-slider-and-carousel",
+            "version": "3.5.7",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/post-slider-and-carousel/",
+                "reference": "tags/3.5.7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/post-slider-and-carousel.3.5.7.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "pluginandplay"
+                }
+            ],
+            "description": "Post Slider and Post Carousel display WordPress post in slider and carousel layouts with shortcode and Latest/Recent vertical post scrolling widget.",
+            "homepage": "https://infornweb.com/post-slider-and-carousel-pro/",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/post-slider-and-carousel/#developers",
+                "issues": "https://wordpress.org/support/plugin/post-slider-and-carousel",
+                "source": "https://plugins.svn.wordpress.org/post-slider-and-carousel"
+            },
+            "time": "2026-06-13T07:55:45+00:00"
+        },
+        {
+            "name": "wp-plugin/really-simple-ssl",
+            "version": "9.7.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/really-simple-ssl/",
+                "reference": "tags/9.7.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/really-simple-ssl.9.7.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "Really Simple Plugins"
+                }
+            ],
+            "description": "Easily improve site security with WordPress Hardening, Two-Factor Authentication (2FA), Login Protection, Vulnerability Detection and SSL certificate.",
+            "homepage": "https://really-simple-ssl.com",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/really-simple-ssl/#developers",
+                "issues": "https://wordpress.org/support/plugin/really-simple-ssl",
+                "source": "https://plugins.svn.wordpress.org/really-simple-ssl"
+            },
+            "time": "2026-08-19T07:16:00+00:00"
+        },
+        {
+            "name": "wp-plugin/smart-archive-page-remove",
+            "version": "5.1.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/smart-archive-page-remove/",
+                "reference": "tags/5.1.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/smart-archive-page-remove.5.1.3.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "Peter Raschendorfer"
+                }
+            ],
+            "description": "Completely remove unwanted Archive Pages from your Blog",
+            "homepage": "https://wordpress.org/plugins/smart-archive-page-remove/",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/smart-archive-page-remove/#developers",
+                "issues": "https://wordpress.org/support/plugin/smart-archive-page-remove",
+                "source": "https://plugins.svn.wordpress.org/smart-archive-page-remove"
+            },
+            "time": "2026-03-23T19:23:21+00:00"
+        },
+        {
+            "name": "wp-plugin/social-pug",
+            "version": "1.36.3.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/social-pug/",
+                "reference": "tags/1.36.3.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/social-pug.1.36.3.1.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "NerdPress"
+                }
+            ],
+            "description": "Your content is worth sharing. Let's makes it easier!",
+            "homepage": "https://morehubbub.com/",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/social-pug/#developers",
+                "issues": "https://wordpress.org/support/plugin/social-pug",
+                "source": "https://plugins.svn.wordpress.org/social-pug"
+            },
+            "time": "2026-07-24T01:15:55+00:00"
+        },
+        {
+            "name": "wp-plugin/stops-core-theme-and-plugin-updates",
+            "version": "9.0.21",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/stops-core-theme-and-plugin-updates/",
+                "reference": "tags/9.0.21"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/stops-core-theme-and-plugin-updates.9.0.21.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "David Anderson / Team Updraft"
+                }
+            ],
+            "description": "Manage all your WordPress updates, including individual updates, automatic updates, logs, and loads more. This also works very well with WordPress Mul …",
+            "homepage": "https://easyupdatesmanager.com",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/#developers",
+                "issues": "https://wordpress.org/support/plugin/stops-core-theme-and-plugin-updates",
+                "source": "https://plugins.svn.wordpress.org/stops-core-theme-and-plugin-updates"
+            },
+            "time": "2026-08-13T11:21:23+00:00"
+        },
+        {
+            "name": "wp-plugin/ultimate-dashboard",
+            "version": "3.8.17",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/ultimate-dashboard/",
+                "reference": "tags/3.8.17"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/ultimate-dashboard.3.8.17.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "David Vongries"
+                }
+            ],
+            "description": "The #1 Plugin to Customize the WordPress Dashboard!",
+            "homepage": "https://ultimatedashboard.io/",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/ultimate-dashboard/#developers",
+                "issues": "https://wordpress.org/support/plugin/ultimate-dashboard",
+                "source": "https://plugins.svn.wordpress.org/ultimate-dashboard"
+            },
+            "time": "2026-06-06T07:05:52+00:00"
+        },
+        {
+            "name": "wp-plugin/updraftplus",
+            "version": "1.26.7",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/updraftplus/",
+                "reference": "tags/1.26.7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.26.7.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "David Anderson / Team Updraft"
+                }
+            ],
+            "description": "Backup, restore or migrate your WordPress website to another host or domain. Schedule backups or run manually. Migrate in minutes.",
+            "homepage": "https://updraftplus.com",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/updraftplus/#developers",
+                "issues": "https://wordpress.org/support/plugin/updraftplus",
+                "source": "https://plugins.svn.wordpress.org/updraftplus"
+            },
+            "time": "2026-08-21T08:06:57+00:00"
+        },
+        {
+            "name": "wp-plugin/w3-total-cache",
+            "version": "2.10.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/w3-total-cache/",
+                "reference": "tags/2.10.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/w3-total-cache.2.10.5.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "BoldGrid"
+                }
+            ],
+            "description": "Search Engine (SEO) & Performance Optimization (WPO) via caching. Integrated caching: CDN, Page, Minify, Object, Fragment, Database support.",
+            "homepage": "https://www.boldgrid.com/totalcache/",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/w3-total-cache/#developers",
+                "issues": "https://wordpress.org/support/plugin/w3-total-cache",
+                "source": "https://plugins.svn.wordpress.org/w3-total-cache"
+            },
+            "time": "2026-08-18T19:01:46+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/display-posts-shortcode",
+            "version": "3.0.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/display-posts-shortcode/",
+                "reference": "tags/3.0.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/display-posts-shortcode.3.0.3.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/display-posts-shortcode/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-sitemap-page",
+            "version": "1.9.6",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-sitemap-page/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-sitemap-page.zip?timestamp=1787353673"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-sitemap-page/"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
+}

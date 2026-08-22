@@ -1,0 +1,5 @@
+.env
+.htaccess
+readme.html
+wp-config.php
+/vendor/
