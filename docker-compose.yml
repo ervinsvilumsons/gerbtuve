@@ -10,6 +10,8 @@ services:
         WSL_USER: ${WSL_USER}
         WSL_USER_ID: ${WSL_USER_ID}
 
+    image: wordpress:${WP_VERSION}-php${PHP_VERSION}-apache
+
     volumes:
       - ./:/var/www/html
     
