@@ -57,7 +57,7 @@
 ### Requirements
 
 - Docker with Docker Compose
-- A running MySQL container or service reachable as <a href="https://github.com/ervinsvilumsons/public-services#services" target="_blank" rel="noopener noreferrer">mysql</a>
+- A running MySQL container or service reachable as [mysql](https://github.com/ervinsvilumsons/public-services#services)
 
 ### Installation
 
@@ -74,7 +74,7 @@
     ```
 
 3. Update `.env` and `wp-config.php` with the database credentials and site URL for your environment.
-4. Add <a href="https://developer.wordpress.org/advanced-administration/server/web-server/httpd/#basic-wp" target="_blank" rel="noopener noreferrer">.htaccess</a> file.
+4. Add [.htaccess](https://developer.wordpress.org/advanced-administration/server/web-server/httpd/#basic-wp) file.
 5. Start the WordPress container:
 
     ```bash
