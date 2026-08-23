@@ -15,22 +15,21 @@
 | Ubuntu | `26.04` |
 | WordPress | `7.1` |
 
+## Theme
+
+- [Kadence](https://wordpress.org/themes/kadence/)
+
 ## Plugins
 
 <details>
 <summary>Installed with Composer</summary>
 
-- Advanced Custom Fields (`advanced-custom-fields`)
-- Animate It! (`animate-it`)
 - CookieYes | GDPR Cookie Consent (`cookie-law-info`)
-- Disable Comments (`disable-comments`)
-- Display Posts (`display-posts-shortcode`)
 - Easy Updates Manager (`stops-core-theme-and-plugin-updates`)
 - EWWW Image Optimizer (`ewww-image-optimizer`)
-- Favicon by RealFaviconGenerator (`favicon-by-realfavicongenerator`)
 - Flexible SSL for CloudFlare (`cloudflare-flexible-ssl`)
 - Google Analytics Dashboard for WP (`google-analytics-dashboard-for-wp`)
-- Gutenberg (`gutenberg`)
+- Kadence Blocks (`kadence-blocks`)
 - Meta Tag Manager (`meta-tag-manager`)
 - OneSignal Push Notifications (`onesignal-free-web-push-notifications`)
 - Post Slider and Carousel (`post-slider-and-carousel`)
@@ -41,7 +40,6 @@
 - UpdraftPlus - Backup/Restore (`updraftplus`)
 - W3 Total Cache (`w3-total-cache`)
 - WP Sitemap Page (`wp-sitemap-page`)
-- Wpdevart Social comment (`comments-from-facebook`)
 
 </details>
 
