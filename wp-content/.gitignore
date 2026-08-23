@@ -2,5 +2,4 @@
 !.gitignore
 !index.php
 !plugins/index.php
-!themes/
-!themes/**
+!themes/index.php
