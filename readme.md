@@ -5,7 +5,7 @@
     >
 </p>
 
-## Production environment
+## 🖥️ Production environment
 
 | Component | Version |
 | --- | --- |
@@ -15,11 +15,30 @@
 | Ubuntu | `26.04` |
 | WordPress | `7.1` |
 
-## Theme
+## 🎨 Design 
 
-- [Kadence](https://wordpress.org/themes/kadence/)
+Theme [Kadence](https://wordpress.org/themes/kadence/)
+<details>
+<summary>Color Palette</summary>
 
-## Plugins
+<table style="margin-top: 10px;">
+    <tr>
+        <td style="background-color:#102E46; width:60px; height:20px;"></td>
+        <td>#102E46</td>
+    </tr>
+    <tr>
+        <td style="background-color:#18486D; width:60px; height:20px;"></td>
+        <td>#18486D</td>
+    </tr>
+    <tr>
+        <td style="background-color:#F57C21; width:60px; height:20px;"></td>
+        <td>#F57C21</td>
+    </tr>
+</table>
+
+</details>
+
+## 🧩 Plugins
 
 <details>
 <summary>Installed with Composer</summary>
@@ -47,14 +66,14 @@
 
 </details>
 
-## Setup
+## 🚀 Setup
 
-### Requirements
+### 📋 Requirements
 
 - Docker with Docker Compose
 - A running MySQL container or service reachable as [mysql](https://github.com/ervinsvilumsons/public-services#services)
 
-### Installation
+### 📦 Installation
 
 1. Clone the repository and open its directory.
     ```bash
