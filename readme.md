@@ -29,17 +29,14 @@
 - EWWW Image Optimizer (`ewww-image-optimizer`)
 - Flexible SSL for CloudFlare (`cloudflare-flexible-ssl`)
 - Google Analytics Dashboard for WP (`google-analytics-dashboard-for-wp`)
-- Kadence Blocks (`kadence-blocks`)
 - Meta Tag Manager (`meta-tag-manager`)
 - OneSignal Push Notifications (`onesignal-free-web-push-notifications`)
 - Post Slider and Carousel (`post-slider-and-carousel`)
 - Really Simple Security (`really-simple-ssl`)
-- Smart Archive Page Remove (`smart-archive-page-remove`)
 - Hubbub Lite (`social-pug`)
 - Ultimate Dashboard (`ultimate-dashboard`)
 - UpdraftPlus - Backup/Restore (`updraftplus`)
 - W3 Total Cache (`w3-total-cache`)
-- WP Sitemap Page (`wp-sitemap-page`)
 
 </details>
 
