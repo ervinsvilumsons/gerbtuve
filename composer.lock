@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "77f603d401c755c72f133c3f7f5d6a83",
+    "content-hash": "37986e92f77e310a2706f0174a6d58a9",
     "packages": [
         {
             "name": "composer/installers",
@@ -408,6 +408,37 @@
                 "source": "https://plugins.svn.wordpress.org/really-simple-ssl"
             },
             "time": "2026-08-19T07:16:00+00:00"
+        },
+        {
+            "name": "wp-plugin/simple-local-avatars",
+            "version": "2.8.6",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/simple-local-avatars/",
+                "reference": "tags/2.8.6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/simple-local-avatars.2.8.6.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0|~2.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://wp-packages.org/downloads",
+            "authors": [
+                {
+                    "name": "10up"
+                }
+            ],
+            "description": "Adds an avatar upload field to user profiles. Generates requested sizes on demand just like Gravatar!",
+            "homepage": "https://10up.com/plugins/simple-local-avatars-wordpress/",
+            "support": {
+                "changelog": "https://wordpress.org/plugins/simple-local-avatars/#developers",
+                "issues": "https://wordpress.org/support/plugin/simple-local-avatars",
+                "source": "https://plugins.svn.wordpress.org/simple-local-avatars"
+            },
+            "time": "2026-08-19T23:31:43+00:00"
         },
         {
             "name": "wp-plugin/social-pug",
