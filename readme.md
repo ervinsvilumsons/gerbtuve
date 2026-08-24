@@ -21,20 +21,11 @@ Theme [Kadence](https://wordpress.org/themes/kadence/)
 <details>
 <summary>Color Palette</summary>
 
-<table style="margin-top: 10px;">
-    <tr>
-        <td bgcolor="#102E46" width="60" height="20"></td>
-        <td>#102E46</td>
-    </tr>
-    <tr>
-        <td bgcolor="#18486D" width="60" height="20"></td>
-        <td>#18486D</td>
-    </tr>
-    <tr>
-        <td bgcolor="#F57C21" width="60" height="20"></td>
-        <td>#F57C21</td>
-    </tr>
-</table>
+| Color | Hex |
+|---|---|
+| 🟦 Mosaic | `#102E46` |
+| 🟦 Atlantic | `#18486D` |
+| 🟧 Orange Passion | `#F57C21` |
 
 </details>
 
