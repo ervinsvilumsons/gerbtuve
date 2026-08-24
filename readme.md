@@ -23,15 +23,15 @@ Theme [Kadence](https://wordpress.org/themes/kadence/)
 
 <table style="margin-top: 10px;">
     <tr>
-        <td style="background-color:#102E46; width:60px; height:20px;"></td>
+        <td bgcolor="#102E46" width="60" height="20"></td>
         <td>#102E46</td>
     </tr>
     <tr>
-        <td style="background-color:#18486D; width:60px; height:20px;"></td>
+        <td bgcolor="#18486D" width="60" height="20"></td>
         <td>#18486D</td>
     </tr>
     <tr>
-        <td style="background-color:#F57C21; width:60px; height:20px;"></td>
+        <td bgcolor="#F57C21" width="60" height="20"></td>
         <td>#F57C21</td>
     </tr>
 </table>
