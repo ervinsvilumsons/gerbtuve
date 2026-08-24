@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1f312e7a9aa6c7f5bcd271af50b3493e",
+    "content-hash": "77f603d401c755c72f133c3f7f5d6a83",
     "packages": [
         {
             "name": "composer/installers",
@@ -439,37 +439,6 @@
                 "source": "https://plugins.svn.wordpress.org/social-pug"
             },
             "time": "2026-07-24T01:15:55+00:00"
-        },
-        {
-            "name": "wp-plugin/stops-core-theme-and-plugin-updates",
-            "version": "9.0.21",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/stops-core-theme-and-plugin-updates/",
-                "reference": "tags/9.0.21"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/stops-core-theme-and-plugin-updates.9.0.21.zip"
-            },
-            "require": {
-                "composer/installers": "~1.0|~2.0"
-            },
-            "type": "wordpress-plugin",
-            "notification-url": "https://wp-packages.org/downloads",
-            "authors": [
-                {
-                    "name": "David Anderson / Team Updraft"
-                }
-            ],
-            "description": "Manage all your WordPress updates, including individual updates, automatic updates, logs, and loads more. This also works very well with WordPress Mul …",
-            "homepage": "https://easyupdatesmanager.com",
-            "support": {
-                "changelog": "https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/#developers",
-                "issues": "https://wordpress.org/support/plugin/stops-core-theme-and-plugin-updates",
-                "source": "https://plugins.svn.wordpress.org/stops-core-theme-and-plugin-updates"
-            },
-            "time": "2026-08-13T11:21:23+00:00"
         },
         {
             "name": "wp-plugin/ultimate-dashboard",

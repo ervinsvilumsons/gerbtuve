@@ -35,7 +35,6 @@ Theme [Kadence](https://wordpress.org/themes/kadence/)
 <summary>Installed with Composer</summary>
 
 - CookieYes | GDPR Cookie Consent (`cookie-law-info`)
-- Easy Updates Manager (`stops-core-theme-and-plugin-updates`)
 - EWWW Image Optimizer (`ewww-image-optimizer`)
 - Flexible SSL for CloudFlare (`cloudflare-flexible-ssl`)
 - Google Analytics Dashboard for WP (`google-analytics-dashboard-for-wp`)
