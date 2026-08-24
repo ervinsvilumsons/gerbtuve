@@ -9,11 +9,11 @@
 
 | Component | Version |
 | --- | --- |
-| Apache | `2.4` |
-| MySQL | `8.4` |
-| PHP | `8.5` |
-| Ubuntu | `26.04` |
-| WordPress | `7.1` |
+| Apache | [2.4](https://httpd.apache.org/docs/2.4/) |
+| MySQL | [8.4](https://dev.mysql.com/doc/relnotes/mysql/8.4/en/) |
+| PHP | [8.5](https://www.php.net/releases/8.5/en.php) |
+| Ubuntu | [26.04](https://documentation.ubuntu.com/release-notes/26.04/) |
+| WordPress | [7.1](https://wordpress.org/download/releases/7-1/) |
 
 ## 🎨 Design 
 
