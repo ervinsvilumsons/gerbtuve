@@ -14,12 +14,14 @@ RUN curl -fsSL https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-
 ARG WSL_USER
 ARG WSL_USER_ID
 
-RUN useradd \
-    --uid ${WSL_USER_ID} \
-    --gid www-data \
-    --groups www-data \
-    --create-home \
-    --shell /bin/bash \
-    ${WSL_USER}
+RUN if ! id -u developer >/dev/null 2>&1; then \
+    useradd \
+        --uid ${WSL_USER_ID} \
+        --gid www-data \
+        --groups www-data \
+        --create-home \
+        --shell /bin/bash \
+        ${WSL_USER}; \
+    fi
 
 WORKDIR /var/www/html
