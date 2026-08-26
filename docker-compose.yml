@@ -15,15 +15,7 @@ services:
     volumes:
       - ./:/var/www/html
     
-    command: >
-      bash -c "
-        mkdir -p /var/www/html/wp-content/upgrade &&
-        chown -R ${WSL_USER}:www-data /var/www/html &&
-        find /var/www/html -type d -exec chmod 2775 {} \\; &&
-        find /var/www/html -type f -exec chmod 644 {} \\; &&
-        su -s /bin/bash ${WSL_USER} -c 'composer install --no-interaction' &&
-        exec docker-entrypoint.sh apache2-foreground
-      "
+    command: ["/usr/local/bin/deploy.sh"]
 
     environment:
       WORDPRESS_DB_HOST: ${DB_HOST}
@@ -31,6 +23,7 @@ services:
       WORDPRESS_DB_USER: ${DB_USER}
       WORDPRESS_DB_PASSWORD: ${DB_PASSWORD}
       WORDPRESS_SITEURL: ${WP_SITEURL}
+      WSL_USER: ${WSL_USER}
 
     ports:
       - "${APACHE_PORT}:80"

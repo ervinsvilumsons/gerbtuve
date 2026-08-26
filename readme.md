@@ -80,10 +80,16 @@ Theme [Kadence](https://wordpress.org/themes/kadence/)
 
 3. Update `.env` and `wp-config.php` with the database credentials and site URL for your environment.
 4. Add [.htaccess](https://developer.wordpress.org/advanced-administration/server/web-server/httpd/#basic-wp) file.
-5. Start the WordPress container:
+5. Run Composer install.
+
+    ```bash
+    composer install
+    ```
+
+6. Start the WordPress container:
 
     ```bash
     make build
     ```
 
-6. Open the site at the URL configured by `WP_SITEURL` (the example uses `http://localhost:9001`).
+7. Open the site at the URL configured by `WP_SITEURL` (the example uses `http://localhost:9001`).
