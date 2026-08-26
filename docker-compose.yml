@@ -15,7 +15,7 @@ services:
     volumes:
       - ./:/var/www/html
     
-    command: ["/usr/local/bin/deploy.sh"]
+    command: ["/usr/local/bin/build.sh"]
 
     environment:
       WORDPRESS_DB_HOST: ${DB_HOST}
