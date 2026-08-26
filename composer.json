@@ -21,7 +21,7 @@
             "type": "package",
             "package": {
                 "name": "wp-cerber/wp-cerber",
-                "version": "9.9.3",
+                "version": "9.9.5",
                 "type": "wordpress-plugin",
                 "dist": {
                     "url": "https://downloads.wpcerber.com/plugin/wp-cerber.zip",

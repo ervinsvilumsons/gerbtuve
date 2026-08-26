@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "37986e92f77e310a2706f0174a6d58a9",
+    "content-hash": "a92a51ea4ec429fa949b64ddf4734cab",
     "packages": [
         {
             "name": "composer/installers",
@@ -154,7 +154,7 @@
         },
         {
             "name": "wp-cerber/wp-cerber",
-            "version": "9.9.3",
+            "version": "9.9.5",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wpcerber.com/plugin/wp-cerber.zip"
@@ -380,15 +380,15 @@
         },
         {
             "name": "wp-plugin/really-simple-ssl",
-            "version": "9.7.0",
+            "version": "9.8.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/really-simple-ssl/",
-                "reference": "tags/9.7.0"
+                "reference": "tags/9.8.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/really-simple-ssl.9.7.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/really-simple-ssl.9.8.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -407,7 +407,7 @@
                 "issues": "https://wordpress.org/support/plugin/really-simple-ssl",
                 "source": "https://plugins.svn.wordpress.org/really-simple-ssl"
             },
-            "time": "2026-08-19T07:16:00+00:00"
+            "time": "2026-08-24T09:06:21+00:00"
         },
         {
             "name": "wp-plugin/simple-local-avatars",
