@@ -1,6 +1,7 @@
 <p align="center">
 	<img 
-        src="https://gerbtuve.com/wp-content/uploads/2022/10/logo.png" 
+        width="320"
+        src="https://www.gerbtuve.com/wp-content/uploads/2026/09/gerbtuve_4.png" 
         alt="Ģērbtuve logo"
     >
 </p>
