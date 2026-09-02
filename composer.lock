@@ -225,15 +225,15 @@
         },
         {
             "name": "wp-plugin/ewww-image-optimizer",
-            "version": "8.7.6",
+            "version": "8.7.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/8.7.6"
+                "reference": "tags/8.7.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.8.7.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.8.7.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -252,7 +252,7 @@
                 "issues": "https://wordpress.org/support/plugin/ewww-image-optimizer",
                 "source": "https://plugins.svn.wordpress.org/ewww-image-optimizer"
             },
-            "time": "2026-08-20T16:36:14+00:00"
+            "time": "2026-09-01T18:16:09+00:00"
         },
         {
             "name": "wp-plugin/google-analytics-dashboard-for-wp",
@@ -318,15 +318,15 @@
         },
         {
             "name": "wp-plugin/onesignal-free-web-push-notifications",
-            "version": "3.9.2",
+            "version": "3.9.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/onesignal-free-web-push-notifications/",
-                "reference": "tags/3.9.2"
+                "reference": "tags/3.9.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/onesignal-free-web-push-notifications.3.9.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/onesignal-free-web-push-notifications.3.9.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -345,19 +345,19 @@
                 "issues": "https://wordpress.org/support/plugin/onesignal-free-web-push-notifications",
                 "source": "https://plugins.svn.wordpress.org/onesignal-free-web-push-notifications"
             },
-            "time": "2026-07-02T22:20:53+00:00"
+            "time": "2026-09-02T18:36:02+00:00"
         },
         {
             "name": "wp-plugin/post-slider-and-carousel",
-            "version": "3.5.7",
+            "version": "3.5.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/post-slider-and-carousel/",
-                "reference": "tags/3.5.7"
+                "reference": "tags/3.5.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/post-slider-and-carousel.3.5.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/post-slider-and-carousel.3.5.8.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -376,19 +376,19 @@
                 "issues": "https://wordpress.org/support/plugin/post-slider-and-carousel",
                 "source": "https://plugins.svn.wordpress.org/post-slider-and-carousel"
             },
-            "time": "2026-06-13T07:55:45+00:00"
+            "time": "2026-08-27T07:20:57+00:00"
         },
         {
             "name": "wp-plugin/really-simple-ssl",
-            "version": "9.8.0",
+            "version": "9.8.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/really-simple-ssl/",
-                "reference": "tags/9.8.0"
+                "reference": "tags/9.8.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/really-simple-ssl.9.8.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/really-simple-ssl.9.8.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -407,7 +407,7 @@
                 "issues": "https://wordpress.org/support/plugin/really-simple-ssl",
                 "source": "https://plugins.svn.wordpress.org/really-simple-ssl"
             },
-            "time": "2026-08-24T09:06:21+00:00"
+            "time": "2026-09-01T09:56:21+00:00"
         },
         {
             "name": "wp-plugin/simple-local-avatars",
