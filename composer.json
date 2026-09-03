@@ -56,6 +56,12 @@
         "wp-plugin/w3-total-cache": "^2.10",
         "wp-theme/kadence": "^1.5"
     },
+    "scripts": {
+        "check": [
+            "@composer validate --strict",
+            "@composer audit"
+        ]
+    },
     "config": {
         "sort-packages": true,
         "allow-plugins": {
