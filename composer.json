@@ -58,8 +58,8 @@
     },
     "scripts": {
         "check": [
-            "composer validate --strict",
-            "composer audit"
+            "@composer validate --strict",
+            "@composer audit"
         ]
     },
     "config": {
