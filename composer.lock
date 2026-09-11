@@ -194,15 +194,15 @@
         },
         {
             "name": "wp-plugin/cookie-law-info",
-            "version": "3.5.5",
+            "version": "3.5.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cookie-law-info/",
-                "reference": "tags/3.5.5"
+                "reference": "tags/3.5.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cookie-law-info.3.5.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/cookie-law-info.3.5.6.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -221,7 +221,7 @@
                 "issues": "https://wordpress.org/support/plugin/cookie-law-info",
                 "source": "https://plugins.svn.wordpress.org/cookie-law-info"
             },
-            "time": "2026-08-20T06:35:59+00:00"
+            "time": "2026-09-10T06:41:18+00:00"
         },
         {
             "name": "wp-plugin/ewww-image-optimizer",
@@ -407,7 +407,7 @@
                 "issues": "https://wordpress.org/support/plugin/really-simple-ssl",
                 "source": "https://plugins.svn.wordpress.org/really-simple-ssl"
             },
-            "time": "2026-09-01T09:56:21+00:00"
+            "time": "2026-09-08T11:06:02+00:00"
         },
         {
             "name": "wp-plugin/simple-local-avatars",
