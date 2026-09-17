@@ -63,7 +63,7 @@ Theme [Kadence](https://wordpress.org/themes/kadence/)
 ### 📋 Requirements
 
 - Docker with Docker Compose
-- A running MySQL container or service reachable as [mysql](https://github.com/ervinsvilumsons/public-services#services)
+- A running MySQL container or service reachable as [mysql](https://github.com/ervinsvilumsons/public-services#-services)
 
 ### 📦 Installation
 
