@@ -1,7 +1,7 @@
 Ģērbtuve
 License and Copyright Notice
 
-Copyright © 2026 Ģērbtuve
+Copyright © 2018 Ģērbtuve
 
 Repository Notice
 
