@@ -1,5 +1,6 @@
 *
 !.gitignore
-!index.php
+!index.
+!logo.png
 !plugins/index.php
 !themes/index.php

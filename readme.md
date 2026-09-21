@@ -1,10 +1,16 @@
 <p align="center">
 	<img 
         width="320"
-        src="https://www.gerbtuve.com/wp-content/uploads/2026/09/gerbtuve_4.png" 
+        src="https://github.com/ervinsvilumsons/gerbtuve/blob/main/wp-content/logo.png"
         alt="Ģērbtuve logo"
     >
 </p>
+
+##
+
+![PHP 8.4+](https://img.shields.io/badge/PHP-8.4%2B-777BB4?logo=php)
+[![Docker](https://img.shields.io/badge/Docker-required-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/get-docker/)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%3E%3D2-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 
 ## 🖥️ Production environment
 
@@ -35,6 +41,7 @@ Theme [Kadence](https://wordpress.org/themes/kadence/)
 <details>
 <summary>Installed with Composer</summary>
 
+- AccessiYes (`accessibility-widget`)
 - CookieYes | GDPR Cookie Consent (`cookie-law-info`)
 - EWWW Image Optimizer (`ewww-image-optimizer`)
 - Flexible SSL for CloudFlare (`cloudflare-flexible-ssl`)
@@ -62,7 +69,6 @@ Theme [Kadence](https://wordpress.org/themes/kadence/)
 
 ### 📋 Requirements
 
-- Docker with Docker Compose
 - A running MySQL container or service reachable as [mysql](https://github.com/ervinsvilumsons/public-services#-services)
 
 ### 📦 Installation
