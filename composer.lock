@@ -256,15 +256,15 @@
         },
         {
             "name": "wp-plugin/ewww-image-optimizer",
-            "version": "8.7.7",
+            "version": "8.8.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/8.7.7"
+                "reference": "tags/8.8.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.8.7.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.8.8.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -283,7 +283,7 @@
                 "issues": "https://wordpress.org/support/plugin/ewww-image-optimizer",
                 "source": "https://plugins.svn.wordpress.org/ewww-image-optimizer"
             },
-            "time": "2026-09-01T18:16:09+00:00"
+            "time": "2026-09-24T22:56:52+00:00"
         },
         {
             "name": "wp-plugin/google-analytics-dashboard-for-wp",
@@ -345,7 +345,7 @@
                 "issues": "https://wordpress.org/support/plugin/meta-tag-manager",
                 "source": "https://plugins.svn.wordpress.org/meta-tag-manager"
             },
-            "time": "2026-05-23T17:55:59+00:00"
+            "time": "2026-09-24T14:31:09+00:00"
         },
         {
             "name": "wp-plugin/onesignal-free-web-push-notifications",
