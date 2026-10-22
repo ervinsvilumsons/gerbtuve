@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cc110192e488d25f24e82bed1ec07b4e",
+    "content-hash": "9ebfd969e94622d623e684e3082706e4",
     "packages": [
         {
             "name": "composer/installers",
@@ -154,7 +154,7 @@
         },
         {
             "name": "wp-cerber/wp-cerber",
-            "version": "9.9.5",
+            "version": "9.10",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wpcerber.com/plugin/wp-cerber.zip"
