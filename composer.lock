@@ -225,15 +225,15 @@
         },
         {
             "name": "wp-plugin/cookie-law-info",
-            "version": "3.5.6",
+            "version": "3.5.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cookie-law-info/",
-                "reference": "tags/3.5.6"
+                "reference": "tags/3.5.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cookie-law-info.3.5.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/cookie-law-info.3.5.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -245,26 +245,26 @@
                     "name": "CookieYes"
                 }
             ],
-            "description": "Cookie banner, cookie consent and cookie notice plugin for GDPR and CCPA. Auto cookie blocking, Consent Mode v2, policy pages and preference center.",
+            "description": "Cookie consent banner for GDPR, CCPA and privacy compliance. Auto cookie blocking, cookie scanner, Consent Mode v2 and consent management.",
             "homepage": "https://www.cookieyes.com/",
             "support": {
                 "changelog": "https://wordpress.org/plugins/cookie-law-info/#developers",
                 "issues": "https://wordpress.org/support/plugin/cookie-law-info",
                 "source": "https://plugins.svn.wordpress.org/cookie-law-info"
             },
-            "time": "2026-09-10T06:41:18+00:00"
+            "time": "2026-10-14T05:56:59+00:00"
         },
         {
             "name": "wp-plugin/ewww-image-optimizer",
-            "version": "8.8.0",
+            "version": "8.9.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/8.8.0"
+                "reference": "tags/8.9.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.8.8.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.8.9.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -283,7 +283,7 @@
                 "issues": "https://wordpress.org/support/plugin/ewww-image-optimizer",
                 "source": "https://plugins.svn.wordpress.org/ewww-image-optimizer"
             },
-            "time": "2026-09-24T22:56:52+00:00"
+            "time": "2026-10-13T17:13:03+00:00"
         },
         {
             "name": "wp-plugin/google-analytics-dashboard-for-wp",
@@ -380,15 +380,15 @@
         },
         {
             "name": "wp-plugin/post-slider-and-carousel",
-            "version": "3.5.8",
+            "version": "3.5.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/post-slider-and-carousel/",
-                "reference": "tags/3.5.8"
+                "reference": "tags/3.5.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/post-slider-and-carousel.3.5.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/post-slider-and-carousel.3.5.9.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -407,7 +407,7 @@
                 "issues": "https://wordpress.org/support/plugin/post-slider-and-carousel",
                 "source": "https://plugins.svn.wordpress.org/post-slider-and-carousel"
             },
-            "time": "2026-08-27T07:20:57+00:00"
+            "time": "2026-10-11T12:51:10+00:00"
         },
         {
             "name": "wp-plugin/really-simple-ssl",
@@ -504,15 +504,15 @@
         },
         {
             "name": "wp-plugin/ultimate-dashboard",
-            "version": "3.8.17",
+            "version": "3.8.18",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ultimate-dashboard/",
-                "reference": "tags/3.8.17"
+                "reference": "tags/3.8.18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ultimate-dashboard.3.8.17.zip"
+                "url": "https://downloads.wordpress.org/plugin/ultimate-dashboard.3.8.18.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -531,19 +531,19 @@
                 "issues": "https://wordpress.org/support/plugin/ultimate-dashboard",
                 "source": "https://plugins.svn.wordpress.org/ultimate-dashboard"
             },
-            "time": "2026-06-06T07:05:52+00:00"
+            "time": "2026-10-10T06:04:22+00:00"
         },
         {
             "name": "wp-plugin/updraftplus",
-            "version": "1.26.8",
+            "version": "1.26.13",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.26.8"
+                "reference": "tags/1.26.13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.26.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.26.13.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -562,19 +562,19 @@
                 "issues": "https://wordpress.org/support/plugin/updraftplus",
                 "source": "https://plugins.svn.wordpress.org/updraftplus"
             },
-            "time": "2026-09-21T14:58:27+00:00"
+            "time": "2026-10-19T21:02:21+00:00"
         },
         {
             "name": "wp-plugin/w3-total-cache",
-            "version": "2.10.7",
+            "version": "2.11.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/w3-total-cache/",
-                "reference": "tags/2.10.7"
+                "reference": "tags/2.11.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/w3-total-cache.2.10.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/w3-total-cache.2.11.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -593,7 +593,7 @@
                 "issues": "https://wordpress.org/support/plugin/w3-total-cache",
                 "source": "https://plugins.svn.wordpress.org/w3-total-cache"
             },
-            "time": "2026-10-01T16:41:32+00:00"
+            "time": "2026-10-20T20:51:36+00:00"
         },
         {
             "name": "wp-theme/kadence",
