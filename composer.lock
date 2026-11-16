@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9ebfd969e94622d623e684e3082706e4",
+    "content-hash": "2edc3845cf755d518c02411bac6a3356",
     "packages": [
         {
             "name": "composer/installers",
@@ -163,15 +163,15 @@
         },
         {
             "name": "wp-plugin/accessibility-widget",
-            "version": "3.2.6",
+            "version": "3.2.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/accessibility-widget/",
-                "reference": "tags/3.2.6"
+                "reference": "tags/3.2.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/accessibility-widget.3.2.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/accessibility-widget.3.2.8.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -190,7 +190,7 @@
                 "issues": "https://wordpress.org/support/plugin/accessibility-widget",
                 "source": "https://plugins.svn.wordpress.org/accessibility-widget"
             },
-            "time": "2026-08-25T05:30:58+00:00"
+            "time": "2026-11-10T08:51:59+00:00"
         },
         {
             "name": "wp-plugin/cloudflare-flexible-ssl",
@@ -221,19 +221,19 @@
                 "issues": "https://wordpress.org/support/plugin/cloudflare-flexible-ssl",
                 "source": "https://plugins.svn.wordpress.org/cloudflare-flexible-ssl"
             },
-            "time": "2026-03-23T19:23:21+00:00"
+            "time": "2026-09-29T13:03:58+00:00"
         },
         {
             "name": "wp-plugin/cookie-law-info",
-            "version": "3.5.7",
+            "version": "3.5.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cookie-law-info/",
-                "reference": "tags/3.5.7"
+                "reference": "tags/3.5.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cookie-law-info.3.5.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/cookie-law-info.3.5.9.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -245,26 +245,26 @@
                     "name": "CookieYes"
                 }
             ],
-            "description": "Cookie consent banner for GDPR, CCPA and privacy compliance. Auto cookie blocking, cookie scanner, Consent Mode v2 and consent management.",
+            "description": "Google-certified CMP: cookie banner, cookie notice and cookie consent for GDPR/CCPA compliance, with cookie blocker, cookie scanner and consent log.",
             "homepage": "https://www.cookieyes.com/",
             "support": {
                 "changelog": "https://wordpress.org/plugins/cookie-law-info/#developers",
                 "issues": "https://wordpress.org/support/plugin/cookie-law-info",
                 "source": "https://plugins.svn.wordpress.org/cookie-law-info"
             },
-            "time": "2026-10-14T05:56:59+00:00"
+            "time": "2026-11-12T06:17:15+00:00"
         },
         {
             "name": "wp-plugin/ewww-image-optimizer",
-            "version": "8.9.0",
+            "version": "8.9.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ewww-image-optimizer/",
-                "reference": "tags/8.9.0"
+                "reference": "tags/8.9.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.8.9.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.8.9.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -283,7 +283,7 @@
                 "issues": "https://wordpress.org/support/plugin/ewww-image-optimizer",
                 "source": "https://plugins.svn.wordpress.org/ewww-image-optimizer"
             },
-            "time": "2026-10-13T17:13:03+00:00"
+            "time": "2026-11-10T17:28:01+00:00"
         },
         {
             "name": "wp-plugin/google-analytics-dashboard-for-wp",
@@ -314,7 +314,7 @@
                 "issues": "https://wordpress.org/support/plugin/google-analytics-dashboard-for-wp",
                 "source": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp"
             },
-            "time": "2026-10-01T17:06:44+00:00"
+            "time": "2026-09-29T13:03:58+00:00"
         },
         {
             "name": "wp-plugin/meta-tag-manager",
@@ -345,7 +345,7 @@
                 "issues": "https://wordpress.org/support/plugin/meta-tag-manager",
                 "source": "https://plugins.svn.wordpress.org/meta-tag-manager"
             },
-            "time": "2026-09-24T14:31:09+00:00"
+            "time": "2026-09-29T13:03:58+00:00"
         },
         {
             "name": "wp-plugin/onesignal-free-web-push-notifications",
@@ -376,7 +376,7 @@
                 "issues": "https://wordpress.org/support/plugin/onesignal-free-web-push-notifications",
                 "source": "https://plugins.svn.wordpress.org/onesignal-free-web-push-notifications"
             },
-            "time": "2026-09-29T23:51:16+00:00"
+            "time": "2026-09-29T23:46:52+00:00"
         },
         {
             "name": "wp-plugin/post-slider-and-carousel",
@@ -407,19 +407,19 @@
                 "issues": "https://wordpress.org/support/plugin/post-slider-and-carousel",
                 "source": "https://plugins.svn.wordpress.org/post-slider-and-carousel"
             },
-            "time": "2026-10-11T12:51:10+00:00"
+            "time": "2026-10-11T12:48:52+00:00"
         },
         {
             "name": "wp-plugin/really-simple-ssl",
-            "version": "9.8.3",
+            "version": "9.8.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/really-simple-ssl/",
-                "reference": "tags/9.8.3"
+                "reference": "tags/9.8.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/really-simple-ssl.9.8.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/really-simple-ssl.9.8.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -438,7 +438,7 @@
                 "issues": "https://wordpress.org/support/plugin/really-simple-ssl",
                 "source": "https://plugins.svn.wordpress.org/really-simple-ssl"
             },
-            "time": "2026-09-15T06:21:30+00:00"
+            "time": "2026-10-26T08:40:50+00:00"
         },
         {
             "name": "wp-plugin/simple-local-avatars",
@@ -469,19 +469,19 @@
                 "issues": "https://wordpress.org/support/plugin/simple-local-avatars",
                 "source": "https://plugins.svn.wordpress.org/simple-local-avatars"
             },
-            "time": "2026-08-19T23:31:43+00:00"
+            "time": "2026-09-29T13:03:58+00:00"
         },
         {
             "name": "wp-plugin/social-pug",
-            "version": "1.36.3.1",
+            "version": "1.36.3.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/social-pug/",
-                "reference": "tags/1.36.3.1"
+                "reference": "tags/1.36.3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/social-pug.1.36.3.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/social-pug.1.36.3.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -500,19 +500,19 @@
                 "issues": "https://wordpress.org/support/plugin/social-pug",
                 "source": "https://plugins.svn.wordpress.org/social-pug"
             },
-            "time": "2026-09-14T12:41:03+00:00"
+            "time": "2026-11-10T15:44:16+00:00"
         },
         {
             "name": "wp-plugin/ultimate-dashboard",
-            "version": "3.8.18",
+            "version": "4.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ultimate-dashboard/",
-                "reference": "tags/3.8.18"
+                "reference": "tags/4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ultimate-dashboard.3.8.18.zip"
+                "url": "https://downloads.wordpress.org/plugin/ultimate-dashboard.4.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -524,26 +524,26 @@
                     "name": "David Vongries"
                 }
             ],
-            "description": "The #1 Plugin to Customize the WordPress Dashboard!",
+            "description": "Replace the default dashboard widgets with your own, customize the login screen, change the login URL & clean up the WordPress admin area.",
             "homepage": "https://ultimatedashboard.io/",
             "support": {
                 "changelog": "https://wordpress.org/plugins/ultimate-dashboard/#developers",
                 "issues": "https://wordpress.org/support/plugin/ultimate-dashboard",
                 "source": "https://plugins.svn.wordpress.org/ultimate-dashboard"
             },
-            "time": "2026-10-10T06:04:22+00:00"
+            "time": "2026-11-14T11:51:57+00:00"
         },
         {
             "name": "wp-plugin/updraftplus",
-            "version": "1.26.13",
+            "version": "1.26.14",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.26.13"
+                "reference": "tags/1.26.14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.26.13.zip"
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.26.14.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -556,13 +556,13 @@
                 }
             ],
             "description": "Backup, restore or migrate your WordPress website to another host or domain. Schedule backups or run manually. Migrate in minutes.",
-            "homepage": "https://updraftplus.com",
+            "homepage": "https://teamupdraft.com/updraftplus",
             "support": {
                 "changelog": "https://wordpress.org/plugins/updraftplus/#developers",
                 "issues": "https://wordpress.org/support/plugin/updraftplus",
                 "source": "https://plugins.svn.wordpress.org/updraftplus"
             },
-            "time": "2026-10-19T21:02:21+00:00"
+            "time": "2026-10-26T23:06:05+00:00"
         },
         {
             "name": "wp-plugin/w3-total-cache",
@@ -593,19 +593,19 @@
                 "issues": "https://wordpress.org/support/plugin/w3-total-cache",
                 "source": "https://plugins.svn.wordpress.org/w3-total-cache"
             },
-            "time": "2026-10-20T20:51:36+00:00"
+            "time": "2026-10-20T20:46:04+00:00"
         },
         {
             "name": "wp-theme/kadence",
-            "version": "1.5.2",
+            "version": "1.6.0",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/kadence/",
-                "reference": "1.5.2"
+                "reference": "1.6.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/kadence.1.5.2.zip"
+                "url": "https://downloads.wordpress.org/theme/kadence.1.6.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0|~2.0"
@@ -619,7 +619,7 @@
                 "issues": "https://wordpress.org/support/theme/kadence",
                 "source": "https://themes.svn.wordpress.org/kadence"
             },
-            "time": "2026-07-24T00:00:00+00:00"
+            "time": "2026-11-06T04:07:58+00:00"
         }
     ],
     "packages-dev": [],
